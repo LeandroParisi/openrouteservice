@@ -1,3 +1,12 @@
+# For TaOn devs
+In order to run this service on docker do:
+1. Open Route folder
+2. cd docker
+3. mkdir -p conf elevation_cache graphs logs/ors logs/tomcat
+4. docker-compose up -d
+
+OBS.: For more info access: https://giscience.github.io/openrouteservice/installation/Running-with-Docker.html
+
 # Openrouteservice
 
 [![Build Status](https://travis-ci.org/GIScience/openrouteservice.svg?branch=master)](https://travis-ci.org/GIScience/openrouteservice) 
