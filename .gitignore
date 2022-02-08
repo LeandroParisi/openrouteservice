@@ -1,4 +1,6 @@
 .metadata/
+.vscode
+.vscode/
 
 .recommenders/
 .recommenders/caches/identified-project-coordinates.json

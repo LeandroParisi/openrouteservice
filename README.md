@@ -5,7 +5,21 @@ In order to run this service on docker do:
 3. mkdir -p conf elevation_cache graphs logs/ors logs/tomcat
 4. docker-compose up -d
 
-OBS.: For more info access: https://giscience.github.io/openrouteservice/installation/Running-with-Docker.html
+## Setup:
+1. Download GeoFrabrik: https://download.geofabrik.de/south-america.html
+2. 
+
+## Documentation:
+1. Api Documentation: https://openrouteservice.org/dev/#/api-docs/geocode/search/get
+2. Installing with docker: https://giscience.github.io/openrouteservice/installation/Running-with-Docker.html
+3. Official Repo: https://giscience.github.io/openrouteservice/installation/Running-with-Docker.html
+
+## Troubleshooting:
+1. Official Forum: https://ask.openrouteservice.org/
+2. Routes not working 1: https://groups.google.com/g/openrouteservice/c/j6Bwj9U3U1k?pli=1
+3. Routes not working 2: https://ask.openrouteservice.org/t/geocoder-on-github/1000
+4. Routes not working 3: https://ask.openrouteservice.org/t/errors-in-docker-setup/3284/6
+5. Initial Setup: https://ask.openrouteservice.org/t/help-with-openrouteservice-via-docker/2183/9
 
 # Openrouteservice
 
